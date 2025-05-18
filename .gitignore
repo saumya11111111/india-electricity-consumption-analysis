@@ -1,0 +1,17 @@
+
+data/*.csv
+data/*.xlsx
+
+
+**/.ipynb_checkpoints/
+
+
+venv/
+env/
+
+__pycache__/
+*.pyc
+
+
+.DS_Store
+Thumbs.db
